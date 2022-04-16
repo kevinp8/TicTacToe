@@ -1,5 +1,5 @@
 # TicTacToe
-made in python with sockets
+made in python with tkinter and sockets
 
 Launch player2.py first, then player1.py
 
